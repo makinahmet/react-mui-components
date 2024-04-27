@@ -27,5 +27,8 @@ IMPORT MATERIAL UI (for referance https://mui.com/material-ui/getting-started/)<
 npm install @mui/material @emotion/react @emotion/styled  //Emotion styling engine<br>
 npm install @mui/icons-material  //to use material ui icons. Over 2000 icons<br>
 
+# NOTES
+All components are in the 
+
 
 
