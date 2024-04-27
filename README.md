@@ -14,6 +14,7 @@ Auto Rename Tag <br>
 react: 18.2.0 <br>
 react-dom: 18.2.0 <br>
 vite: 5.2.0 <br>
+material ui: 5.15.15<br>
 
 # used npm codes
 CREATE REACT APP WITH VITE<br>
@@ -23,7 +24,9 @@ npm install            //install react <br>
 npm run dev            //run the server http://localhost:5173/<br>
 <br>
 <br>
-IMPORT MATERIAL UI<br> (go to https://mui.com/material-ui/getting-started/)
+IMPORT MATERIAL UI (for referance https://mui.com/material-ui/getting-started/)<br>
+npm install @mui/material @emotion/react @emotion/styled  //Emotion styling engine<br>
+npm install @mui/icons-material  //to use material ui icons. Over 2000 icons<br>
 
 
 
