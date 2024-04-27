@@ -21,5 +21,9 @@ npm create vite@latest //to create latest version of vite<br>
 cd ReactMuiComponents  //navigate the project folder<br>
 npm install            //install react <br>
 npm run dev            //run the server http://localhost:5173/<br>
+<br>
+<br>
+IMPORT MATERIAL UI<br> (go to https://mui.com/material-ui/getting-started/)
+
 
 
