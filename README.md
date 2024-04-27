@@ -23,7 +23,6 @@ cd ReactMuiComponents  //navigate the project folder<br>
 npm install            //install react <br>
 npm run dev            //run the server http://localhost:5173/<br>
 <br>
-<br>
 IMPORT MATERIAL UI (for referance https://mui.com/material-ui/getting-started/)<br>
 npm install @mui/material @emotion/react @emotion/styled  //Emotion styling engine<br>
 npm install @mui/icons-material  //to use material ui icons. Over 2000 icons<br>
