@@ -1,20 +1,14 @@
 import React from 'react'
-import TypographyComponent from './components/TypographyComponent'
-import ButtonComponent from './components/ButtonComponent'
-import IconComponent from './components/IconComponent'
-import TextfieldComponent from './components/TextfieldComponent'
+import Responsive1 from './components/Responsive1'
 
 function App() {
 
   return (
     <>
-      <TypographyComponent />
+      <Responsive1 />
       <hr/>
-      <ButtonComponent />
-      <hr/>
-      <IconComponent />
-      <hr/>
-      <TextfieldComponent/>
+      <br/>
+      <br/>
     </>
   )
 }
