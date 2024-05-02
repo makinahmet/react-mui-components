@@ -15,7 +15,7 @@ function Responsive3() {
         </Grid>
         <Grid container item height={200} justifyContent={'center'} bgcolor={defaultTheme.palette.primary.light}>
             <Grid container item bgcolor={defaultTheme.palette.primary.light} padding={1} style={{maxWidth:"1200px"}}>
-                CONTENT
+                RESPOSIVE 3 
             </Grid>
         </Grid>
         <Grid container justifyContent={'center'} item height={50} bgcolor={defaultTheme.palette.primary.dark} padding={1}>

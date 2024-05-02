@@ -10,7 +10,7 @@ function Navbar1() {
         <Grid item xs={12} sm={1} sx={{alignItems:{xs:"center"}, justifyContent:{xs:"center", sm:"flex-start"}}} container>
             <Box component="img" width={50} src="../src/assets/images/reactLogo.png"/>
         </Grid>
-        <Grid item bgcolor={defaultTheme.palette.primary.main} padding={1} xs={12} sm>
+        <Grid item bgcolor={defaultTheme.palette.primary.dark} padding={1} xs={12} sm>
             <Grid container item direction={'row'} padding={1}>
                 <Grid item>
                     HOME &nbsp;&nbsp;&nbsp;
