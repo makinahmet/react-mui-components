@@ -10,7 +10,7 @@ function Footer1() {
   return (
     <Grid container direction={'row'} justifyContent={'center'} alignItems={'center'} minHeight={100} bgcolor={backGroundColor} color={fontColor}>
         <Grid item xs={12} sm>
-            <Grid item container justifyContent={'center'} alignItems={'center'}>
+            <Grid item container justifyContent={'center'} alignItems={'center'} padding={3}>
                 <Box component="img" width={50} src="../src/assets/images/reactLogo.png"/>
             </Grid>
         </Grid>
