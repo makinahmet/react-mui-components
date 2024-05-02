@@ -16,15 +16,17 @@ function Responsive4() {
         </Grid>
         <Grid container xs={12} sm item justifyContent={'center'} bgcolor={defaultTheme.palette.primary.light}>
             <Grid item container sx={{maxWidth:"1200px", minHeight:"200px"}} bgcolor={defaultTheme.palette.primary.light}>
-                <Grid xs={12} sm={6} item bgcolor={defaultTheme.palette.primary.light} padding={10}>
-                    <Grid><Typography variant='h3'>Move Faster</Typography></Grid>
-                    <Grid><Typography variant='h3' color={"#222"}>with intuitive<br/> React UI tools</Typography></Grid>
-                    <Grid>
-                        <Typography variant='body1'>
-                            MUI offers a comprehensive suite of free UI tools to help you ship new features faster.
-                            Start with Material UI, our fully-loaded component library, or bring your own design system 
-                            to our production-ready components.
-                        </Typography>
+                <Grid xs={12} sm={6} item container alignItems={"center"}>
+                    <Grid item>
+                        <Grid><Typography variant='h3'>Move Faster</Typography></Grid>
+                        <Grid><Typography variant='h3' color={"#222"}>with intuitive<br/> React UI tools</Typography></Grid>
+                        <Grid>
+                            <Typography variant='body1'>
+                                MUI offers a comprehensive suite of free UI tools to help you ship new features faster.
+                                Start with Material UI, our fully-loaded component library, or bring your own design system 
+                                to our production-ready components.
+                            </Typography>
+                        </Grid>
                     </Grid>
                 </Grid>
                 <Grid xs={12} sm={6} item bgcolor={defaultTheme.palette.primary.light}>
