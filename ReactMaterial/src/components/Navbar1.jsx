@@ -6,12 +6,12 @@ function Navbar1() {
     const defaultTheme = createTheme();
 
   return (
-    <Grid container direction={"row"} alignItems={'center'}>
+    <Grid container direction={"row"} alignItems={'center'} padding={1}>
         <Grid item xs={12} sm={1} sx={{alignItems:{xs:"center"}, justifyContent:{xs:"center", sm:"flex-start"}}} container>
             <Box component="img" width={50} src="../src/assets/images/reactLogo.png"/>
         </Grid>
         <Grid item bgcolor={defaultTheme.palette.primary.dark} padding={1} xs={12} sm>
-            <Grid container item direction={'row'} padding={1}>
+            <Grid container item direction={'row'} padding={1} sx={{justifyContent:{xs:"center", sm:"flex-start"}}}>
                 <Grid item>
                     HOME &nbsp;&nbsp;&nbsp;
                 </Grid>
