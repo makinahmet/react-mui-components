@@ -28,7 +28,7 @@ npm install @mui/material @emotion/react @emotion/styled  //Emotion styling engi
 npm install @mui/icons-material  //to use material ui icons. Over 2000 icons<br>
 
 # NOTES
-All components are in the 
+All components are in the components folder. 
 
 
 
