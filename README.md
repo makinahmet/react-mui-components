@@ -2,7 +2,7 @@
 This repo is for exercising google material ui with react.
 
 # Editor
-Using Visual Stufio Code as editor.
+Using Visual Studio Code as editor.
 
 # Plugins
 ES7+React/Redux/React-Native snippets <br>
