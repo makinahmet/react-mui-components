@@ -30,7 +30,7 @@ function Responsive4() {
                     </Grid>
                 </Grid>
                 <Grid xs={12} sm={6} item bgcolor={defaultTheme.palette.primary.light}>
-                    <Box component="img" width={"100%"} src="../src/assets/images/materialHero.png"/>
+                    <Box component="img" width={"100%"} src="../src/assets/images/bagHero.png"/>
                 </Grid>
             </Grid>
         </Grid>
