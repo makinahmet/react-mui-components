@@ -23,9 +23,9 @@ function App() {
       <Responsive4 />
       <hr/>
       <Grid container direction={"row"} justifyContent={"space-evenly"} bgcolor={defaultTheme.palette.primary.dark} padding={1}>
-        <CardComponent image="../src/assets/images/bagHero.png" cardHeader="All Bags" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
-        <CardComponent image="../src/assets/images/bag1.png" cardHeader="Little Tote" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
-        <CardComponent image="../src/assets/images/bag2.png" cardHeader="Big tote" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
+        <CardComponent location="https://www.google.com" image="../src/assets/images/bagHero.png" cardHeader="All Bags" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
+        <CardComponent location="https://www.google.com" image="../src/assets/images/bag1.png" cardHeader="Little Tote" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
+        <CardComponent location="https://www.google.com" image="../src/assets/images/bag2.png" cardHeader="Big tote" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
       </Grid>
       <hr/>
       

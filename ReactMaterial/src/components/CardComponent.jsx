@@ -4,7 +4,7 @@ import { Card, CardActionArea, CardMedia, CardContent, Typography } from '@mui/m
 function CardComponent(props) {
   return (
     <Card sx={{ maxWidth: 345 }}>
-        <CardActionArea>
+        <CardActionArea href={props.location}>
             <CardMedia component="img" image={props.image} width={"100%"}/>
             <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
