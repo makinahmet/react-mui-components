@@ -2,7 +2,7 @@
 This repo is for exercising google material ui with react.
 
 
-![alt text](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/responsive4.PNG)
+![alt text](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/resposnsive4.PNG)
 ![alt text](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/productCard.PNG)
 
 
