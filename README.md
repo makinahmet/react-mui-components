@@ -3,7 +3,7 @@ This repo is for exercising google material ui with react.
 
 
 
-![alt text](https://github.com/[makinahmet]/[react-mui-components]/blob/[main]/productCard.jpg?raw=true)
+![alt text](https://github.com/[makinahmet]/[react-mui-components]/previewPictures/[main]/productCard.jpg?raw=true)
 
 # Editor
 Using Visual Studio Code as editor.
