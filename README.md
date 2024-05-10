@@ -1,6 +1,12 @@
 # react-mui-components (Vite)
 This repo is for exercising google material ui with react.
 
+
+![responsive4](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/resposnsive4.PNG)
+![productCard](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/productCard.PNG)
+![responsive1](https://raw.githubusercontent.com/makinahmet/react-mui-components/main/previewPictures/responsive1.PNG)
+
+
 # Editor
 Using Visual Studio Code as editor.
 
