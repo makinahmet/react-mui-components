@@ -4,9 +4,10 @@ import Responsive2 from './components/Responsive2'
 import Responsive3 from './components/Responsive3'
 import Responsive4 from './components/Responsive4'
 import CardComponent from './components/CardComponent'
+import HamburgerLayout from './components/HamburgerLayout'
 
 //import built in components
-import { Grid, createTheme } from '@mui/material'
+import { Divider, Grid, createTheme } from '@mui/material'
 
 function App() {
 
@@ -15,7 +16,7 @@ function App() {
   return (
     <>
       <Responsive1 />
-      <hr/>
+      <Divider/>
       <Responsive2 />
       <hr/>
       <Responsive3 />
@@ -28,7 +29,7 @@ function App() {
         <CardComponent location="https://www.google.com" image="../src/assets/images/bag2.png" cardHeader="Big tote" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, nisi explicabo excepturi libero, tenetur aut doloremque ad porro temporibus vel reiciendis quos culpa, accusamus ea. Excepturi, veritatis exercitationem. Accusamus, fugiat!"/>
       </Grid>
       <hr/>
-      
+      <HamburgerLayout />
       <br/>
       <br/>
     </>
